@@ -7,7 +7,7 @@ PyTorch implementation of IEEE TPAMI 2021 paper: "[Learning Dynamic Interpolatio
 
 ## Train and Test
 ### Data
-There is a demo testing data in the folder ./data. The full training and testing data preprocessing code will be released soon.
+The full training and testing data preprocessing code will be released soon.
 
 ### Test
 The testing codes are in the folder ./test
