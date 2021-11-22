@@ -1,5 +1,5 @@
 # DI4SLF
-PyTorch implementation of ICCV 2021 paper: "[Learning Dynamic Interpolation for Extremely Sparse Light Fields with Wide Baselines] (https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Learning_Dynamic_Interpolation_for_Extremely_Sparse_Light_Fields_With_Wide_ICCV_2021_paper.pdf)"
+PyTorch implementation of ICCV 2021 paper: "[Learning Dynamic Interpolation for Extremely Sparse Light Fields with Wide Baselines](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Learning_Dynamic_Interpolation_for_Extremely_Sparse_Light_Fields_With_Wide_ICCV_2021_paper.pdf)"
 
 ## Requrements
 - Python 3.7.4
