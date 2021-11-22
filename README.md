@@ -12,7 +12,6 @@ The training dataset can be downloaded from [here](https://drive.google.com/file
 ### Test
 The testing codes are in the folder ./test
 - model: the trained model which is in this subfolder;
-- testResults: the output of the code will be saved at this subfolder.
 - Inference:
 ```
 python lfr_test.py
