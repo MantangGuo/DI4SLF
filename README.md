@@ -7,7 +7,7 @@ PyTorch implementation of ICCV 2021 paper: "[Learning Dynamic Interpolation for 
 
 ## Train and Test
 ### Data
-The training dataset can be downloaded from [here](https://drive.google.com/file/d/1QhQlOj9WgBiq-EptFPBM5I6Ds1iXdQNS/view?usp=sharing), and the testing dataset can be downloaded from [here](https://drive.google.com/file/d/1mmhP_1QbOliheNF3co4h7AtGNANTKlOL/view?usp=sharing)
+The training dataset can be downloaded from [here](https://drive.google.com/file/d/1QhQlOj9WgBiq-EptFPBM5I6Ds1iXdQNS/view?usp=sharing), and the testing dataset can be downloaded from [here](https://drive.google.com/file/d/1mmhP_1QbOliheNF3co4h7AtGNANTKlOL/view?usp=sharing).
 
 ### Test
 The testing codes are in the folder ./test
@@ -22,5 +22,5 @@ python lfr_test.py
 The testing codes are in the folder ./train
 - Training:
 ```
-python lfr_test.py
+python lfr_train.py
 ```
